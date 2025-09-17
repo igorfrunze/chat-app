@@ -4,8 +4,8 @@
     "outDir": "dist",
     "rootDir": "src",
     "sourceMap": true,
-    "noEmit": true,
-    "allowImportingTsExtensions": true,
+    // "noEmit": true,
+    // "allowImportingTsExtensions": true,
     "module": "esnext",
     "moduleResolution": "bundler"
   },
